@@ -9,7 +9,7 @@ The aim was to know how to manipulate the DOM using JQUERY
 - To Play the game open the index.html.
 - There are 2 dices with 2 players on screen which would render different outputs depending on the output of a genreated random number.
 - Each time you refresh the browser you get different results leading to a WIN||DRAW||LOOSE
-- Inoder to get the final result,We compare the 2 random generated random numbers and display the output.
+- Inoder to get the final result,We compare the 2 random generated random numbers and the greater number would appear as the winner.
 
 # Generating Random numbers
 > var randomNumber = Math.floor(Math.random() * 6) + 1; // 1-6
