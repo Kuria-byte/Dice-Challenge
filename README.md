@@ -16,7 +16,7 @@ The aim was to know how to manipulate the DOM using JQUERY
 
 
 # The logic behind
-` // If player 1 wins
+``` // If player 1 wins
 if (randomNumber1 > randomNumber2) {
   document.querySelector('h1').innerHTML = '🚩 Play 1 Wins!'
 }
@@ -24,7 +24,8 @@ else if (randomNumber2 > randomNumber1) {
   document.querySelector('h1').innerHTML = 'Player 2 Wins! 🚩'
 }else {
   document.querySelector('h1').innerHTML = 'Draw!'
-} `
+} 
+```
 
 # Hack learned
 If you are wondering how I rendered different Images each time a number was generated.
