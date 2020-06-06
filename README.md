@@ -3,7 +3,7 @@
 # About
 This is a simple Dice challenge.
 The aim was to know how to manipulate the DOM using JQUERY
-<img src="dice.png" alt="My cool logo"/>
+<img src="./dice.png" alt="My cool logo"/>
 
 # How it works
 - To Play the game open the index.html.
