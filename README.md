@@ -3,7 +3,7 @@
 # About
 This is a simple Dice challenge.
 The aim was to know how to manipulate the DOM using JQUERY
-![alt text](https://github.com/[Kuria-byte]/[Dice-Challenge]/blob/[Master]Images/dice1.png?raw=true)
+![alt text](https://github.com/[Kuria-byte]/[Dice-Challenge]/blob/[Master]images/dice1.png?raw=true)
 
 # How it works
 - To Play the game open the index.html.
